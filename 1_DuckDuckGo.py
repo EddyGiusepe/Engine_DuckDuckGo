@@ -3,7 +3,7 @@ Data Scientist.: Dr.Eddy Giusepe Chirinos Isidro
 
 DuckDuckGo
 ==========
-Aqui estudamos este Engine de busca.
+Aqui estudamos a Engine de busca DuckDuckGo.
 """
 import requests
 from bs4 import BeautifulSoup
